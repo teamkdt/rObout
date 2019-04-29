@@ -7,6 +7,8 @@
 Την εφαρμογή την δημιουργήσαμε με το MIT APP INVENTOR .Το αρχείο ΑΙΑ και το APK θα βρίσκονται στο φάκελο CODE.
 Το πρόγραμμα για το ESP 8266 θα βρίσκεται και αυτό μέσα στο φάκελο CODE (και το εκτελέσιμο αρχείο αλλά και ο κώδικας)
 Ο σκελετός του ρομπότ θα βρίσκετε στον φάκελο HARDWARE - DESIGN με την μορφή εκτυπώσιμου αρχείου STL . 
+
+
 ΥΛΙΚΑ
 •	1 Esp 8266 NodeMCU
 https://www.hellasdigital.gr/electronics/microcontrollers/nodemcu-lua-ch340g-esp8266-wifi-development-board-black/ 
